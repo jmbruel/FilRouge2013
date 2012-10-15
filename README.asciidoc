@@ -1,5 +1,4 @@
-FilRouge2013
-========================
+= FilRouge2013
 :Author: Jean-Michel Bruel 
 :Author Initials: JMB
 :Email: bruel@irit.fr
@@ -18,6 +17,6 @@ knowledges and tools of the MACAO team.
 
 == Case study
 
-Car Crash Management Systems Case Study (see <<file:doc/CaseStudy.pdf,requirements>>)
+Car Crash Management Systems Case Study (see <<doc/CaseStudy.pdf,requirements>>)
 
-Contact: {email}
+Contact: {email}.
