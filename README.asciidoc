@@ -17,6 +17,6 @@ knowledges and tools of the MACAO team.
 
 == Case study
 
-Car Crash Management Systems Case Study (see <<doc/CaseStudy.pdf,requirements>>)
+Car Crash Management Systems Case Study (see <<https://github.com/jmbruel/FilRouge2013/doc/CaseStudy.pdf,requirements>>)
 
 Contact: {email}.

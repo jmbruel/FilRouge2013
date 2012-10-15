@@ -1,0 +1,33 @@
+= Proposal
+
+== Content
+
+- a statement classifying the approach as either aspect-oriented, feature-oriented, object-oriented, subject-oriented, or any other paradigm,
+- a statement classifying the approach in terms of its software development phases (e.g., early requirements specification and analysis, high-level and architectural design, low-level design, evolution, run-time, in addition to validation/verification at each of these phases),
+- a one-sentence description of what is modeled (i.e., either the single system or the software product line with an exact list of variations), and
+- a two-paragraph description of the modeling approach used,
+- a link to a website or paper that best describes the modeling approach.
+
+== Classifying the approach
+
+Our approach is +aspect-oriented+ for the dev. part, +goal-oriented+ for the requirements, and overall +object-oriented+.
+
+== Software development phases 
+
+Our approach is mainly focussed on :
+
+- early requirements specification and analysis, 
+- validation/verification.
+
+== What is modeled?
+
+We have modeled an adaptive system, defining potential adaptations as +software product line+ with an 
+_incomplete_ list of variations).
+
+== Modeling approach used
+
+TBD.
+
+== Link to a website
+
+TBD.
